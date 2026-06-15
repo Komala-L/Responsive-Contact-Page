@@ -42,6 +42,8 @@ This project was built to practice:
 
 ## 📸 Preview
 
+https://github.com/user-attachments/assets/5a7ed720-400f-4b45-baef-3683634c296d
+
 
 
 ## 📂 Project Structure
