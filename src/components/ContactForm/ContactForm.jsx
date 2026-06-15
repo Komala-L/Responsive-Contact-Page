@@ -55,7 +55,12 @@ const ContactForm = () => {
 
           <div className="form_controler self-start gap-2 w-[500px] border border-black pl-5 py-4">
             <label htmlFor='text' className='absolute'>Text : </label>
-            <textarea className='outline-none focus:outline-none pl-10' name='text' rows="5"></textarea>
+            <textarea
+              name="text"
+              rows="3"
+              className="w-full p-8 outline-none"
+              placeholder="Thank you for visiting this demo contact page. Feel free to reach out with any questions."
+            ></textarea>
           </div>
 
           <Button 
