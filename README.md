@@ -69,7 +69,7 @@ public/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/contact-us-page.git
+git clone https://github.com/Komala-L/contact-us-page.git
 ```
 
 2. Navigate to the project folder
